@@ -1,7 +1,3 @@
-# Twitter Sentiment Analysis using Python
-# Author: GeeksforGeeks (Formatted & Organized for GitHub)
-# Date: October 2025
-
 # Step 1: Import Libraries
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
